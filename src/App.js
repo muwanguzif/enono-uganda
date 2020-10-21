@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  alert('hello');
+  alert('login with google');
   return (
     <div className="App">
       <button onClick>
